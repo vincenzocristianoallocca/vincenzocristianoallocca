@@ -9,7 +9,7 @@
 ---
 
 ## Stack
-- HTML / CSS / JS - TailwindCSS  
+- HTML / CSS - TailwindCSS  
 - Python  
 - Node.js - Express.js  
 - C / C++  
