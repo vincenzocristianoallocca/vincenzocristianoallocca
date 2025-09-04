@@ -11,7 +11,7 @@
 ## Stack
 - HTML / CSS - TailwindCSS  
 - Python  
-- Node.js - Express.js  
+- Node.js - Express.js - React.js
 - C / C++  
 
 ---
